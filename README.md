@@ -80,8 +80,15 @@ Halo! Saya **Riko Rizky Baswara**, seorang pengembang web yang penuh semangat da
 ### 3. **Website Ucapan Ulang Tahun**
 [![Birthday Wish](https://img.shields.io/badge/View-Project-pink)](https://rikorizky.github.io/ultah.github.io/)
 - Website interaktif untuk ucapan ulang tahun
-- Dibuat khusus untuk teman-teman tercinta
+- Dibuat khusus untuk teman tercinta
 - Menampilkan animasi dan pesan personal
+
+### 4. **Pembelian Barang** - Website Pembelian Barang
+[![Pembelian Barang](https://img.shields.io/badge/View-Project-blue)](https://penjualan-barang-sable.vercel.app/)
+- Ini adalah proyek yang mangkrak tanpa ada kelanjutan dari pemesan aplikasi ini
+- Aplikasi ini menggunakan react
+- Terdapat sistem CRUD
+- Checkout otomatis terhubung ke wa admin dan otomatis mengunduh nota dari data yang di pesan
 
 ## 📞 Kontak & Sosial Media
 
