@@ -119,20 +119,6 @@ Halo! Saya **Riko Rizky Baswara**, seorang pengembang web yang penuh semangat da
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RikoRizky&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RikoRizky&layout=compact&theme=radical)
 
-## 🎯 Tujuan & Target
-
-### Jangka Pendek (2024-2025)
-- [ ] Menyelesaikan pendidikan SMK dengan prestasi maksimal
-- [ ] Meningkatkan kemampuan dalam framework modern
-- [ ] Membangun jaringan profesional di industri IT
-- [ ] Berkontribusi pada proyek open source
-
-### Jangka Panjang (2025+)
-- [ ] Menjadi Full-Stack Developer profesional
-- [ ] Berkontribusi pada komunitas developer Indonesia
-- [ ] Mengembangkan produk digital yang bermanfaat
-- [ ] Berpartisipasi dalam kompetisi programming nasional
-
 ## 🙏 Terima Kasih
 
 Terima kasih telah mengunjungi portfolio saya! Jika Anda tertarik untuk berkolaborasi atau memiliki pertanyaan, jangan ragu untuk menghubungi saya melalui salah satu platform di atas.
@@ -147,4 +133,4 @@ Terima kasih telah mengunjungi portfolio saya! Jika Anda tertarik untuk berkolab
 
 ---
 
-**Dibuat dengan ❤️ oleh Riko Rizky**
+**Dibuat oleh Riko Rizky**
