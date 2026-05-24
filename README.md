@@ -139,11 +139,11 @@ Saya berfokus pada penciptaan pengalaman web yang indah, fungsional, dan berdamp
 ## 📊 Statistik GitHub
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RikoRizky/RikoRizky/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RikoRizky/RikoRizky/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/RikoRizky/RikoRizky/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <!-- Stats Card dari layanan alternatif yang lebih stabil -->
+  <img src="https://github-profile-summary-cards-git-7b1f5c-vn7n24fzkq.vercel.app/cards/profile-details.php?username=RikoRizky&theme=radical" width="100%" />
+  <br><br>
+  <!-- Stats lain yang mungkin masih bisa digunakan -->
+  <img src="https://github-readme-streak-stats-steel-omega.vercel.app/?user=RikoRizky&theme=radical&hide_border=true&background=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b" alt="GitHub Streak" width="70%" />
 </div>
 
 <div align="center">
