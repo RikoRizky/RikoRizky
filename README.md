@@ -139,15 +139,12 @@ Saya berfokus pada penciptaan pengalaman web yang indah, fungsional, dan berdamp
 ## 📊 Statistik GitHub
 
 <div align="center">
-  <!-- Stats Card dari layanan alternatif yang lebih stabil -->
-  <img src="https://github-profile-summary-cards-git-7b1f5c-vn7n24fzkq.vercel.app/cards/profile-details.php?username=RikoRizky&theme=radical" width="100%" />
-  <br><br>
-  <!-- Stats lain yang mungkin masih bisa digunakan -->
-  <img src="https://github-readme-streak-stats-steel-omega.vercel.app/?user=RikoRizky&theme=radical&hide_border=true&background=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b" alt="GitHub Streak" width="70%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RikoRizky&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RikoRizky&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RikoRizky&theme=radical" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RikoRizky&theme=radical&hide_border=true&background=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b" />
 </div>
 
 ---
