@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-rikorizky.github.io-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white)](https://rikorizky.github.io/)
+[![Website](https://img.shields.io/badge/🌐_Portfolio-rikorizky.github.io-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white)](https://rikorizky.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-RikoRizky-181717?style=for-the-badge&logo=github)](https://github.com/RikoRizky)
 [![Instagram](https://img.shields.io/badge/Instagram-@sir_ikoo-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sir_ikoo/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Riko_Ajah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riko-ajah-921262338)
@@ -14,10 +14,10 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Turning+ideas+into+interactive+websites;Frontend+%26+Backend+Developer;Always+learning+new+things" alt="Typing SVG" />
-</div>
+  
+### 🎯 *"Turning ideas into interactive websites"* 🎯
 
----
+</div>
 
 ## 👋 Tentang Saya
 
@@ -31,8 +31,6 @@ Saya berfokus pada penciptaan pengalaman web yang indah, fungsional, dan berdamp
 ---
 
 ## 🛠️ Tech Stack
-
-<div align="center">
 
 ### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -53,8 +51,6 @@ Saya berfokus pada penciptaan pengalaman web yang indah, fungsional, dan berdamp
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![WPS Office](https://img.shields.io/badge/WPS_Office-1E6E8F?style=flat-square&logo=wps&logoColor=white)
-
-</div>
 
 ---
 
@@ -96,12 +92,21 @@ Saya berfokus pada penciptaan pengalaman web yang indah, fungsional, dan berdamp
 
 ## 🚀 Proyek Unggulan
 
-| Proyek | Deskripsi |
-|--------|------------|
-| [📊 Sista Bijak](https://github.com/MuhammadRaffaFadellah/sista-bijak) | Website Pengelolaan Data Penduduk – Dikembangkan saat PKL di BPS Kota Cirebon untuk Kelurahan Kesambi. Efisien, modern, responsif. |
-| [☕ My Cafe](https://rikorizky.github.io/mycafe.github.io/) | Website Restoran / Kafe – Proyek pertama dengan desain menarik, menampilkan menu dan informasi kafe secara lengkap. |
-| [🎂 Website Ucapan Ulang Tahun](https://rikorizky.github.io/ultah.github.io/) | Interaktif & Personal – Website spesial dengan animasi dan pesan personal untuk teman tercinta. |
-| [🛒 Pembelian Barang](https://penjualan-barang-sable.vercel.app/) | Sistem CRUD + WhatsApp + Nota Otomatis – Aplikasi berbasis React (proyek tidak dilanjutkan oleh pemesan), namun memiliki fitur CRUD, checkout terhubung ke WA admin, dan unduh nota otomatis. |
+### [📊 Sista Bijak](https://github.com/MuhammadRaffaFadellah/sista-bijak)  
+*Website Pengelolaan Data Penduduk*  
+> Dikembangkan saat PKL di BPS Kota Cirebon untuk Kelurahan Kesambi. Efisien, modern, dan responsif.
+
+### [☕ My Cafe](https://rikorizky.github.io/mycafe.github.io/)  
+*Website Restoran / Kafe*  
+> Proyek pertama dengan desain menarik, menampilkan menu dan informasi kafe secara lengkap.
+
+### [🎂 Website Ucapan Ulang Tahun](https://rikorizky.github.io/ultah.github.io/)  
+*Interaktif & Personal*  
+> Website spesial dengan animasi dan pesan personal untuk teman tercinta.
+
+### [🛒 Pembelian Barang](https://penjualan-barang-sable.vercel.app/)  
+*Sistem CRUD + WhatsApp + Nota Otomatis*  
+> Aplikasi berbasis React (proyek tidak dilanjutkan oleh pemesan), namun memiliki fitur CRUD, checkout terhubung ke WA admin, dan unduh nota otomatis.
 
 ---
 
@@ -113,19 +118,6 @@ Saya berfokus pada penciptaan pengalaman web yang indah, fungsional, dan berdamp
 | Dark/Light Mode | SEO Friendly | Project Carousel |
 | Smooth Animations | Mobile First | Smooth Scrolling |
 | Modern UI/UX | Cross-browser | Social Media Integration |
-
----
-
-## 📊 Statistik GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RikoRizky&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RikoRizky&theme=radical&hide_border=true&background=0D1117" width="48%" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RikoRizky&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="40%" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RikoRizky&theme=radical" width="100%" />
-</div>
 
 ---
 
@@ -144,6 +136,16 @@ Saya berfokus pada penciptaan pengalaman web yang indah, fungsional, dan berdamp
 
 ---
 
+## 📊 Statistik GitHub
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RikoRizky&theme=radical&hide_border=true&background=0D1117" width="48%" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RikoRizky&theme=radical" width="100%" />
+</div>
+
+---
+
 ## 🙏 Terima Kasih
 
 Terima kasih sudah mengunjungi profil saya!  
@@ -155,7 +157,7 @@ Saya sangat terbuka untuk **kolaborasi**, **proyek menarik**, atau sekadar **ngo
 
 <div align="center">
   
-**Dibuat oleh Riko Rizky**  
-✨ *Terus belajar dan berkarya* ✨
+*Dibuat oleh Riko Rizky*  
+✨ Teruslah belajar dan berkarya ✨
 
 </div>
