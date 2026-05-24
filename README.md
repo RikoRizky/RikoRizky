@@ -108,6 +108,10 @@ Saya berfokus pada penciptaan pengalaman web yang indah, fungsional, dan berdamp
 *Sistem CRUD + WhatsApp + Nota Otomatis*  
 > Aplikasi berbasis React (proyek tidak dilanjutkan oleh pemesan), namun memiliki fitur CRUD, checkout terhubung ke WA admin, dan unduh nota otomatis.
 
+### [🚗 BYD Cirebon](https://bydcirebon.id)  
+*Website Resmi Dealer BYD di Cirebon*  
+> Website perusahaan untuk menampilkan mobil BYD, informasi layanan, promosi, dan galeri. Dibangun dengan performa tinggi dan tampilan modern yang responsif.
+
 ---
 
 ## 🎨 Fitur Website Portfolio Saya
