@@ -1,135 +1,130 @@
-# 🚀 Riko Rizky - Personal Portfolio
+✨ Riko Rizky Baswara ✨
 
-[![Website](https://img.shields.io/badge/Website-Live-brightgreen)](https://rikorizky.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/RikoRizky)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink)](https://www.instagram.com/sir_ikoo/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/riko-ajah-921262338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+<div align="center">
+https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-rikorizky.github.io-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white
+https://img.shields.io/badge/GitHub-RikoRizky-181717?style=for-the-badge&logo=github
+https://img.shields.io/badge/Instagram-@sir_ikoo-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+https://img.shields.io/badge/LinkedIn-Riko_Ajah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Twitter-@sir_ikoo-1DA1F2?style=for-the-badge&logo=x&logoColor=white
+https://img.shields.io/badge/Facebook-Riko_Rizky-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 
-## 🌟 Tentang Saya
+</div>
+<div align="center">
+🎯 "Turning ideas into interactive websites" 🎯
 
-Halo! Saya **Riko Rizky Baswara**, seorang pengembang web yang penuh semangat dari Kota Cirebon, Indonesia. Saya berfokus pada penciptaan pengalaman web yang indah dan fungsional dengan menggunakan teknologi modern.
+</div>
+👋 Tentang Saya
 
-### 🎯 Visi
-"Turning ideas into interactive websites" - Mengubah ide-ide kreatif menjadi website interaktif yang memberikan dampak positif.
+Halo! Saya Riko Rizky Baswara, seorang pengembang web yang penuh semangat dari Kota Cirebon, Jawa Barat, Indonesia.
+Saya berfokus pada penciptaan pengalaman web yang indah, fungsional, dan berdampak positif menggunakan teknologi modern.
 
-## 🛠️ Teknologi & Keahlian
+🎓 Lulusan Rekayasa Perangkat Lunak (2025) – SMK Informatika Al-Irysad Al-Islamiyyah
+🏆 Pemegang Sertifikasi BNSP (2025)
+🌱 Terus belajar dan berkarya di dunia Frontend & Backend Development
+🛠️ Tech Stack
 
-### Frontend Development
-- **HTML5** - Struktur web modern
-- **CSS3** - Styling dengan Tailwind CSS dan Bootstrap
-- **JavaScript** - Interaktivitas dan dinamika
-- **Bootstrap** - Framework CSS responsif
-- **Tailwind CSS** - Utility-first CSS framework
+🎨 Frontend
 
-### Backend Development
-- **PHP** - Pengembangan server-side
-- **Laravel** - Framework PHP modern
-- **MySQL** - Database management
-- **Supabase** - Backend-as-a-Service untuk database dan autentikasi
+https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black
+https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white
+https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white
 
-### Tools & Technologies
-- **Visual Studio Code** - Editor kode utama
-- **Git** - Version control
-- **GitHub** - Repository hosting
-- **Figma** - UI/UX design
-- **WPS Office** - Office productivity
+⚙️ Backend
 
-## 📚 Pendidikan
-**SMK Informatika Al-Irysad Al-Islamiyyah Kota Cirebon**
-- Jurusan: Rekayasa Perangkat Lunak (RPL)
-- Tahun: 2022 - 2025
-- Fokus: Pengembangan web, database, dan pemrograman
+https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white
+https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white
+https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white
+https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white
 
-## 💼 Pengalaman
+🛠️ Tools
 
-### Praktik Kerja Lapangan (PKL)
-**Badan Pusat Statistik (BPS) Kota Cirebon** - 2024
-- Mengembangkan website pengelolaan data untuk Kelurahan Kesambi
-- Membuat infografis untuk visualisasi data
-- Mengolah dan menganalisis data menggunakan Microsoft Excel
-- Berkolaborasi dengan tim untuk menyelesaikan proyek
+https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white
+https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github
+https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white
+https://img.shields.io/badge/WPS_Office-1E6E8F?style=flat-square&logo=wps&logoColor=white
 
-### Organisasi & Kepemimpinan
-- **Ketua PMR** (Palang Merah Remaja) - 2023-2024
-- **Ketua IRMAIS** (Ikatan Remaja Masjid Al-Ishlah) - 2023-2024
-- **Anggota OSIS, Pramuka, dan Basket** - 2023-2024
+📚 Pendidikan
 
-## 🏆 Sertifikat & Penghargaan
+🎓 SMK Informatika Al-Irysad Al-Islamiyyah Kota Cirebon
+Rekayasa Perangkat Lunak (RPL) | 2022 – 2025
 
-- **Sertifikat BNSP** - Badan Nasional Sertifikasi Profesi (2025)
-- **Sertifikat PKL** - Badan Pusat Statistik Kota Cirebon (2024)
-- **Sertifikat UKK RPL** - Uji Kompetensi Keahlian (2024)
-- **Sertifikat Karier.mu** - Menjadi Talenta Siap Bisnis (2024)
-- **Sertifikat Karier.mu** - Kelas Persiapan Kerja (2024)
-- **Sertifikat Partisipasi** - Kunjungan Industri GAMELAB Indonesia (2023)
+Fokus: Pengembangan web, database, pemrograman, dan UI/UX
+💼 Pengalaman & Organisasi
 
-## 🚀 Proyek Unggulan
+🏢 Praktik Kerja Lapangan (PKL) – BPS Kota Cirebon (2024)
 
-### 1. **Sista Bijak** - Website Pengelolaan Data
-[![Sista Bijak](https://img.shields.io/badge/View-Project-blue)](https://github.com/MuhammadRaffaFadellah/sista-bijak)
-- Website pengelolaan data penduduk untuk Kelurahan Kesambi
-- Dikembangkan selama PKL di BPS Kota Cirebon
-- Menggunakan teknologi web modern untuk efisiensi data
+✅ Mengembangkan website pengelolaan data untuk Kelurahan Kesambi
+✅ Membuat infografis untuk visualisasi data statistik
+✅ Mengolah & menganalisis data menggunakan Microsoft Excel
+✅ Kolaborasi tim untuk menyelesaikan proyek tepat waktu
+🚩 Kepemimpinan
 
-### 2. **My Cafe** - Website Restoran
-[![My Cafe](https://img.shields.io/badge/View-Project-green)](https://rikorizky.github.io/mycafe.github.io/)
-- Website presentasi kafe dengan desain menarik
-- Proyek pertama dalam perjalanan pengembangan web
-- Menampilkan menu dan informasi kafe
+🟢 Ketua PMR (Palang Merah Remaja) – 2023/2024
+🟢 Ketua IRMAIS (Ikatan Remaja Masjid Al-Ishlah) – 2023/2024
+🟢 Anggota aktif OSIS, Pramuka, dan Basket – 2023/2024
+🏆 Sertifikat & Penghargaan
 
-### 3. **Website Ucapan Ulang Tahun**
-[![Birthday Wish](https://img.shields.io/badge/View-Project-pink)](https://rikorizky.github.io/ultah.github.io/)
-- Website interaktif untuk ucapan ulang tahun
-- Dibuat khusus untuk teman tercinta
-- Menampilkan animasi dan pesan personal
+Sertifikat	Tahun
+🎖️ BNSP – Badan Nasional Sertifikasi Profesi	2025
+📜 PKL – Badan Pusat Statistik Kota Cirebon	2024
+📜 UKK RPL – Uji Kompetensi Keahlian	2024
+📜 Karier.mu – Menjadi Talenta Siap Bisnis	2024
+📜 Karier.mu – Kelas Persiapan Kerja	2024
+🏭 Kunjungan Industri – GAMELAB Indonesia	2023
+🚀 Proyek Unggulan
 
-### 4. **Pembelian Barang** - Website Pembelian Barang
-[![Pembelian Barang](https://img.shields.io/badge/View-Project-blue)](https://penjualan-barang-sable.vercel.app/)
-- Ini adalah proyek yang mangkrak tanpa ada kelanjutan dari pemesan aplikasi ini
-- Aplikasi ini menggunakan react
-- Terdapat sistem CRUD
-- Checkout otomatis terhubung ke wa admin dan otomatis mengunduh nota dari data yang di pesan
+📊 Sista Bijak
 
-## 📞 Kontak & Sosial Media
+Website Pengelolaan Data Penduduk
 
-- **📧 Email:** rikorizky20@gmail.com
-- **📱 WhatsApp:** +62 812-2320-9190
-- **🏠 Alamat:** Kota Cirebon, Jawa Barat, Indonesia
-- **🌐 Website:** [rikorizky.github.io](https://rikorizky.github.io/)
-- **🐙 GitHub:** [github.com/RikoRizky](https://github.com/RikoRizky)
-- **📸 Instagram:** [@sir_ikoo](https://www.instagram.com/sir_ikoo/)
-- **📘 Facebook:** [Riko Rizky](https://www.facebook.com/share/1B6SEkLcN1/)
-- **🐦 X (Twitter):** [@sir_ikoo](https://x.com/sir_ikoo)
+Dikembangkan saat PKL di BPS Kota Cirebon untuk Kelurahan Kesambi. Efisien, modern, dan responsif.
+☕ My Cafe
 
-## 🎨 Fitur Website Portfolio
+Website Restoran / Kafe
 
-### ✨ Desain Modern
-- **Responsive Design** - Tampil sempurna di semua perangkat
-- **Dark/Light Mode** - Toggle tema sesuai preferensi
-- **Smooth Animations** - Transisi halus dan interaktif
-- **Modern UI/UX** - Antarmuka yang intuitif dan menarik
+Proyek pertama dengan desain menarik, menampilkan menu dan informasi kafe secara lengkap.
+🎂 Website Ucapan Ulang Tahun
 
-### 🚀 Performa Optimal
-- **Fast Loading** - Optimasi untuk kecepatan
-- **SEO Friendly** - Teroptimasi untuk mesin pencari
-- **Mobile First** - Prioritas tampilan mobile
-- **Cross-browser** - Kompatibel dengan semua browser
+Interaktif & Personal
 
-### 📱 Interaktivitas
-- **Contact Form** - Formulir kontak dengan validasi
-- **Project Carousel** - Galeri proyek interaktif
-- **Smooth Scrolling** - Navigasi halus antar section
-- **Social Integration** - Integrasi media sosial
+Website spesial dengan animasi dan pesan personal untuk teman tercinta.
+🛒 Pembelian Barang
 
-## 📊 Statistik GitHub
+Sistem CRUD + WhatsApp + Nota Otomatis
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RikoRizky&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RikoRizky&layout=compact&theme=radical)
+Aplikasi berbasis React (proyek tidak dilanjutkan oleh pemesan), namun memiliki fitur CRUD, checkout terhubung ke WA admin, dan unduh nota otomatis.
+🎨 Fitur Website Portfolio Saya
 
-## 🙏 Terima Kasih
+✨ Desain	⚡ Performa	📱 Interaktivitas
+Responsive Design	Fast Loading	Contact Form Validasi
+Dark/Light Mode	SEO Friendly	Project Carousel
+Smooth Animations	Mobile First	Smooth Scrolling
+Modern UI/UX	Cross-browser	Social Media Integration
+📞 Hubungi Saya
 
-Terima kasih telah mengunjungi portfolio saya! Jika Anda tertarik untuk berkolaborasi atau memiliki pertanyaan, jangan ragu untuk menghubungi saya melalui salah satu platform di atas.
+<div align="center">
+📧 rikorizky20@gmail.com
+📱 +62 812-2320-9190 (WhatsApp)
+🏠 Kota Cirebon, Jawa Barat, Indonesia
 
----
+https://img.shields.io/badge/Gmail-rikorizky20-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/WhatsApp-+6281223209190-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 
-**Dibuat oleh Riko Rizky**
+</div>
+📊 Statistik GitHub
+
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RikoRizky&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RikoRizky&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b" /> </div><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=RikoRizky&theme=radical&hide_border=true&background=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakLabel=ff6b6b" /> </div>
+🙏 Terima Kasih
+
+Terima kasih sudah mengunjungi profil saya!
+Saya sangat terbuka untuk kolaborasi, proyek menarik, atau sekadar ngobrol santai seputar teknologi dan pengembangan web.
+
+Jangan ragu untuk menghubungi saya melalui media sosial di atas! 🚀
+
+<div align="center">
+Dibuat dengan ☕ dan ❤️ oleh Riko Rizky
+
+</div>
