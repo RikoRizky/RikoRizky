@@ -143,7 +143,8 @@ Saya berfokus pada penciptaan pengalaman web yang indah, fungsional, dan berdamp
 ## 📊 Statistik GitHub
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RikoRizky&theme=radical&hide_border=true&background=0D1117" width="48%" />
+   <img src="https://github-readme-stats.vercel.app/api?username=RikoRizky&show_icons=true&theme=radical" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RikoRizky&layout=compact&theme=radical" width="48%" />
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RikoRizky&theme=radical" width="100%" />
 </div>
