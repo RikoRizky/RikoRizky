@@ -25,7 +25,7 @@ Halo! Saya **Riko Rizky Baswara**, seorang **pengembang web** yang penuh semanga
 Saya berfokus pada penciptaan pengalaman web yang indah, fungsional, dan berdampak positif menggunakan teknologi modern.
 
 - 🎓 Lulusan **Rekayasa Perangkat Lunak** (2025) – SMK Informatika Al-Irysad Al-Islamiyyah
-- 🏆 Pemegang **Sertifikasi BNSP** (2025)
+- 🏆 Pemegang **Sertifikasi HKI** (2026)
 - 🌱 Terus belajar dan berkarya di dunia **Frontend & Backend Development**
 
 ---
